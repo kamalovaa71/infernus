@@ -1,0 +1,54 @@
+.salles_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+
+.salles_btn p {
+    padding: 7px 24px;
+    background: #111111c9;
+    color: #fff;
+    width: fit-content;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.salles {
+    margin-top: 55px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sales{
+    margin-top: 50px;
+}
+
+.sale_title p{
+    font-size: 34px;
+}
+
+.sale_title a{
+    font-size: 14px;
+    color: black;
+    text-decoration: underline;
+}
+
+.sale_title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.prod{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
